@@ -41,6 +41,10 @@ npm run preview
 
 This runs Vite's preview server on `http://127.0.0.1:5173/`.
 
+## Screenshot
+
+![Portfolio screenshot](screenshot.png)
+
 ## Custom preview server
 
 You can also run the custom preview server after building the app:
